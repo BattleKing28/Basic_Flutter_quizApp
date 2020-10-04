@@ -24,13 +24,13 @@ class _MyAppState extends State<MyApp> {
         {'text': 'Black', 'score': 10},
         {'text': 'Red', 'score': 5},
         {'text': 'Green', 'score': 3},
-        {'text': 'White', 'score': 1},
+        {'text': 'White', 'score': 10},
       ],
     },
     {
       'questionText': 'What\'s your favorite animal?',
       'answers': [
-        {'text': 'Rabbit', 'score': 3},
+        {'text': 'chhetah', 'score': 3},
         {'text': 'Snake', 'score': 11},
         {'text': 'Elephant', 'score': 5},
         {'text': 'Lion', 'score': 9},
@@ -42,7 +42,7 @@ class _MyAppState extends State<MyApp> {
         {'text': 'Tokyo', 'score': 10},
         {'text': 'Berlin', 'score': 10},
         {'text': 'Rio', 'score': 5},
-        {'text': 'Lisbon', 'score': 10},
+        {'text': 'Mumbai', 'score': 10},
       ],
     },
   ];
